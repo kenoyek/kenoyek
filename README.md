@@ -15,7 +15,7 @@ Building technology that creates real-world impact.
 
 I am a multidisciplinary professional combining **technology, agriculture, and data** to build impactful solutions.
 
-• 📱 Founder of **Asele** — a women's health and productivity platform  
+• 📱 Co-founder of **Asele** — a women's health and productivity platform  
 • 💻 Software Developer focused on **Flutter, Python, and Web Applications**  
 • 📊 Data Analyst using **Python, Pandas, and NumPy**  
 • 🌱 Passionate about **Agritech and Digital Innovation**  
