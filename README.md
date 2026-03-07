@@ -69,16 +69,6 @@ Exploring the intersection of **agriculture, technology, and data** to improve p
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenoyek&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenoyek&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
