@@ -79,14 +79,6 @@ Exploring the intersection of **agriculture, technology, and data** to improve p
 
 ---
 
-# 🐍 Contribution Snake
-
-This animation shows the contributions you make across your repositories.
-
-![snake gif](https://github.com/kenoyek/kenoyek/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 🌟 Featured Projects
 
 ### 📱 Asele
