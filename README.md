@@ -73,19 +73,6 @@ Exploring the intersection of **agriculture, technology, and data** to improve p
 
 ---
 
-## 🌟 Featured Projects
-
-### 📱 Asele
-A women's health and productivity platform designed to empower women through cycle tracking, health awareness, and personalized insights.
-
-### 📊 Data Science Projects
-Exploring data analysis, visualization, and predictive insights using Python.
-
-### 💻 Coding Education Projects
-Interactive coding exercises and learning materials for young programmers.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
