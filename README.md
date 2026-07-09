@@ -16,7 +16,8 @@
 I am a multidisciplinary professional combining **technology, agriculture, and data** to build impactful solutions.
 
 - 📱 Co-founder of **Asele** — a women's health and productivity platform  
-- 💻 Software Developer focused on **TypeScript, React, Next.js, Flutter, and Python**  
+- 💻 Software Developer focused on **TypeScript, React, Next.js, Flutter, and Python** 
+- ⚙️ Backend & Cloud experienced with **Supabase and Firebase** 
 - 📊 Data Analyst using **Python, Pandas, and NumPy**  
 - 🌱 Passionate about **Agritech and Digital Innovation**  
 - 👨‍🏫 Coding tutor teaching kids **Python, Scratch, and Web Development**
@@ -50,6 +51,11 @@ Exploring the intersection of **agriculture, technology, and data** to improve p
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-%231197D3.svg?style=for-the-badge&logo=capacitor&logoColor=white)
 
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,10 +73,10 @@ Exploring the intersection of **agriculture, technology, and data** to improve p
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenoyek&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenoyek&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -91,11 +97,11 @@ Interactive coding exercises and learning materials for young programmers.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/okagua/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x" alt="Follow on Twitter">
+  <a href="https://x.com/Sir_Kennyk" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="Follow on X">
   </a>
 </p>
 
